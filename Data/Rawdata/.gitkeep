@@ -1,1 +1,12 @@
+Datasets
+Olist Brazilian E-Commerce — Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+Files used:
+olist_orders_dataset.csv, olist_order_items_dataset.csv, olist_products_dataset.csv,
+olist_customers_dataset.csv, olist_order_payments_dataset.csv, olist_order_reviews_dataset.csv
+
+RetailRocket E-Commerce — Kaggle: https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset
+Files used: events.csv, item_properties.csv, category_tree.csv
+
+(Optional) UK Online Retail — Kaggle: https://www.kaggle.com/datasets/carrie1/ecommerce-data
+
 
